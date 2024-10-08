@@ -10,7 +10,7 @@
 ### 学 &nbsp;&nbsp;&nbsp;&nbsp; 院：<u>计算机与信息科学学院 </u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ### 专 &nbsp;&nbsp;&nbsp;&nbsp; 业：<u>计算机科学与技术（普通）</u>
 ### 年 &nbsp;&nbsp;&nbsp;&nbsp; 级：<u>2023级</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-### 姓 &nbsp;&nbsp;&nbsp;&nbsp; 名: <u>张冬桥</u>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### 姓 &nbsp;&nbsp;&nbsp;&nbsp; 名：<u>张冬桥</u>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ### 学 &nbsp;&nbsp;&nbsp;&nbsp; 号：<u>222022324032021</u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
